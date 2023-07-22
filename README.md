@@ -1,21 +1,17 @@
 ### Hi there 👋
 
 ### Introduction
+![스틸브릿지 10기 현장실습_강신규_사진](https://github.com/KangShinGyu98/KangShinGyu98/assets/103213494/cdb88057-86ab-4ed4-8c51-f2d58e2f3180)
 
-![스틸브릿지 10기 현장실습_강신규_사진.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/107644a5-b771-48b2-8aa8-9c539b503ca0/%EC%8A%A4%ED%8B%B8%EB%B8%8C%EB%A6%BF%EC%A7%80_10%EA%B8%B0_%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5_%EA%B0%95%EC%8B%A0%EA%B7%9C_%EC%82%AC%EC%A7%84.jpg)
-
-- 명확하고 원할한 의사소통을 중요시 합니다.
-- AI,ML 의 업무 적용을 지향합니다.
-- 백엔드에서 데이터 분석까지의 연결을 생각하고 있습니다.
-- 메타인지를 중요하게 생각합니다.
-
+- 성균관대학교 졸업 예정입니다.
+- 구름 풀스택 교육과정을 수료중에 있습니다.
+- 여러 사람들과 친하게 지내는 걸 잘합니다.
+- 자바 스프링 서버 백엔드 취업을 희망합니다.
+  
 ### 연락처
 
-- 이메일 : rkdtlseb@naver.com
+- 이메일 : rkdtlseb@naver.com (한글로 강신듀임에 주의 하세요.)
 - 전화번호 : 010-2688-3997
-- 깃허브:
-
-https://github.com/KangShinGyu98/2022spring_41class_team3.git
 
 ### 언어
 
@@ -23,19 +19,19 @@ https://github.com/KangShinGyu98/2022spring_41class_team3.git
 
 TOEIC 870, OPIc IH(Intermediate High)
 
-### 경력
+### 경력 및 수상
 
-없음
+2023.01.03 [캡스톤 디자인 경진대회 장려상](https://github.com/KangShinGyu98/SWE3028_41_team_H)
+2023.03.02 ~ 05.19 모바일앱개발협동조합 
 
 ---
+### 기술[사용 언어]
+ main : Java, Spring
+ sub : React
 
 ### 학력
 
-### 기술[사용 언어]
-
-2023년 졸업
-
-성균관대학교 시스템경영공학과(구 산업공학), 소프트웨어학과 복수전공
+성균관대학교 시스템경영공학과(구 산업공학), 소프트웨어학과 복수전공 2023.08.25 졸업예정
 
 JavaScript, Python, C, Java를 학교 수업 수준으로 다룰 줄 알고 간단한 프로그래밍이 가능합니다. 
 
