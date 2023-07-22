@@ -22,6 +22,7 @@ TOEIC 870, OPIc IH(Intermediate High)
 ### 경력 및 수상
 
 2023.01.03 [캡스톤 디자인 경진대회 장려상](https://github.com/KangShinGyu98/SWE3028_41_team_H)
+
 2023.03.02 ~ 05.19 모바일앱개발협동조합 
 
 ---
