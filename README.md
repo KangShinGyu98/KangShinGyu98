@@ -1,16 +1,74 @@
 ### Hi there 👋
 
-<!--
-**KangShinGyu98/KangShinGyu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
 
-Here are some ideas to get you started:
+![스틸브릿지 10기 현장실습_강신규_사진.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/107644a5-b771-48b2-8aa8-9c539b503ca0/%EC%8A%A4%ED%8B%B8%EB%B8%8C%EB%A6%BF%EC%A7%80_10%EA%B8%B0_%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5_%EA%B0%95%EC%8B%A0%EA%B7%9C_%EC%82%AC%EC%A7%84.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 명확하고 원할한 의사소통을 중요시 합니다.
+- AI,ML 의 업무 적용을 지향합니다.
+- 백엔드에서 데이터 분석까지의 연결을 생각하고 있습니다.
+- 메타인지를 중요하게 생각합니다.
+
+### 연락처
+
+- 이메일 : rkdtlseb@naver.com
+- 전화번호 : 010-2688-3997
+- 깃허브:
+
+https://github.com/KangShinGyu98/2022spring_41class_team3.git
+
+### 언어
+
+영어 🇺🇸
+
+TOEIC 870, OPIc IH(Intermediate High)
+
+### 경력
+
+없음
+
+---
+
+### 학력
+
+### 기술[사용 언어]
+
+2023년 졸업
+
+성균관대학교 시스템경영공학과(구 산업공학), 소프트웨어학과 복수전공
+
+JavaScript, Python, C, Java를 학교 수업 수준으로 다룰 줄 알고 간단한 프로그래밍이 가능합니다. 
+
+| 학과 | 학점 |
+| --- | --- |
+| 시스템경영공학과 | 3.81 / 4.5 |
+| 소프트웨어학과 | 3.96 / 4.5 |
+| 총합 | 3.79 / 4.5 |
+| 전학년 백분율 | 91.9/100 |
+
+### 주요 교과목 성적표 - 소프트웨어학과
+
+| 학년 - 학기 | 교과목명 | 학점 | 성적 |
+| --- | --- | --- | --- |
+| 3 - 1 | JAVA 프로그래밍 실습 | 2 | A+ |
+| 3 - 1 | 시스템프로그램 | 3  | B+ |
+| 3 - 2 | 시스템프로그래밍실습 | 2 | A |
+| 3 - 2 | 데이터베이스개론 | 3 | B+ |
+| 3 - 2 | 컴퓨터네트웍개론 | 3 | A+ |
+| 4 - 1 | 컴퓨터구조개론 | 3 | A |
+| 4 - 1 | 인공지능개론 | 3 | A+ |
+| 4 - 1 | 알고리즘개론 | 3 | A+ |
+| 4 - 2 | 기계학습원론 | 3 | A |
+| 4 - 2 | 캡스톤설계프로젝트 | 3 | A+ |
+| 4 - 2 | 운영체제 | 3 | B+ |
+| 4 - 겨울학기 | 소프트웨어특강1 | 3 | A+ |
+
+### 주요 교과목 성적표 - 시스템경영공학과(구 산업공학과)
+
+| 학년 - 학기 | 교과목명 | 학점 | 성적 |
+| --- | --- | --- | --- |
+| 2 - 1 | 경영과학및실습1 | 3 | B+ |
+| 2 - 2 | 응용통계및연습1 | 3 | A+ |
+| 2- 2  | 품질경영 | 3 | B+ |
+| 3 - 1 | 확률및통계 | 3 | A |
+| 3 - 1 | 응용통계및연습2 | 3 | B+ |
