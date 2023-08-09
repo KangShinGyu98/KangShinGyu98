@@ -28,6 +28,7 @@ TOEIC 870, OPIc IH(Intermediate High)
 ---
 ### 기술[사용 언어]
  main : Java, Spring
+ 
  sub : React
 
 ### 학력
