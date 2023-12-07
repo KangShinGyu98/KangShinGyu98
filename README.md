@@ -4,7 +4,7 @@
 ![스틸브릿지 10기 현장실습_강신규_사진](https://github.com/KangShinGyu98/KangShinGyu98/assets/103213494/cdb88057-86ab-4ed4-8c51-f2d58e2f3180)
 
 - 성균관대학교 졸업했습니다.
-- 구름 풀스택 교육과정을 수료했습니다.
+- 구름 풀스택(React, Spring) 교육과정을 수료했습니다.
 - 여러 사람들과 친하게 지내는 걸 잘합니다.
 - 자바, 스프링으로 백엔드를 개발합니다.
   
@@ -12,26 +12,12 @@
 
 - 이메일 : rkdtlseb@naver.com (한글로 강신듀임에 주의 하세요.)
 - 전화번호 : 010-2688-3997
-
-### 언어(영어 US)
-
-TOEIC 870(만료됨), OPIc IH(Intermediate High)
-
+- 
 ### 기술[사용 언어]
  main : Java, Spring
  
  sub : React
  
-### 경력
-2023.03.02 ~ 05.19 모바일앱개발협동조합 
-
-2023.05.22 ~ 2023.11.28 구름 풀스택 개발자 양성 과정 1회차 수료
-
-## 수상
-2023.01.03 [캡스톤 디자인 경진대회 장려상]
-
-2023.11.28 구름 풀스택 개발자 양성 과정 최종 프로젝트 우수상
-
 ### 프로젝트 
 
 1. 해외곡 번안(발음을 맞춰서 번역) 사이트 풀스택 개발 - https://www.bunan.co.kr/
@@ -56,7 +42,23 @@ TOEIC 870(만료됨), OPIc IH(Intermediate High)
    
    b. [시연 영상](https://www.youtube.com/watch?v=BwM9A1-nh94) 
    
-   c. [백엔드 깃허브](https://github.com/Goormkdt-WebIDE/project6sIDE-BE) 
+   c. [백엔드 깃허브](https://github.com/Goormkdt-WebIDE/project6sIDE-BE)
+   
+### 언어(영어 US)
+
+TOEIC 870(만료됨), OPIc IH(Intermediate High)
+
+### 경력
+2023.05.22 ~ 2023.11.28 구름 풀스택 개발자 양성 과정 1회차 수료
+
+2023.03.02 ~ 05.19 모바일앱개발협동조합 
+
+
+
+## 수상
+2023.11.28 구름 풀스택 개발자 양성 과정 최종 프로젝트 우수상
+
+2023.01.03 [캡스톤 디자인 경진대회 장려상]
 
 ---
 
