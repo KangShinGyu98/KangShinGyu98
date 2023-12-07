@@ -23,19 +23,23 @@
    
    a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
    
-   b. 깃허브
+   b. 회원가입시 이메일 인증, QueryDsl 활용 검색 및 필터링, github action 과 Aws CodeDeploy 를 활용한 CI/CD 자동화 등이 구현되어 있습니다. 
+
+   c. 깃허브
    - [BackEnd](https://github.com/KangShinGyu98/myBunanBE) 
    - [FrontEnd](https://github.com/KangShinGyu98/myBunanFE) 
    
-2. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
+3. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
    
    a. 구름 풀스택 양성과정 최종 프로젝트로, 우수상 입상한 프로젝트 입니다.
+
+   b. 소셜 로그인 가입, 카카오 챗봇 연동, chat GPT 연동, JWT 기반 인증 등이 구현되어 있습니다. 
+
+   c. [시연 영상 youtube](https://youtu.be/NIDKg0yNWJs?si=esyT39wzfpUsmYXV) 
    
-   b. [시연 영상 youtube](https://youtu.be/NIDKg0yNWJs?si=esyT39wzfpUsmYXV) 
+   d. [백엔드 깃허브](https://github.com/KangShinGyu98/theUltimateTodoApplicationBE) 
    
-   c. [백엔드 깃허브](https://github.com/KangShinGyu98/theUltimateTodoApplicationBE) 
-   
-3. IDE 만들기 프로젝트 - SSIDE
+5. IDE 만들기 프로젝트 - SSIDE
    
    a. 구름 풀스택 양성과정 중 진행한 프로젝트 입니다.
    
