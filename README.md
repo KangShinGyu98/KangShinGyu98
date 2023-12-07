@@ -41,24 +41,24 @@ TOEIC 870(만료됨), OPIc IH(Intermediate High)
    a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
    
    b. 깃허브
-   - BE : https://github.com/KangShinGyu98/myBunanBE
-   - FE : https://github.com/KangShinGyu98/myBunanFE
+   - [BackEnd](https://github.com/KangShinGyu98/myBunanBE) 
+   - [FrontEnd](https://github.com/KangShinGyu98/myBunanFE) 
    
 2. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
    
    a. 구름 풀스택 양성과정 최종 프로젝트로, 우수상 입상한 프로젝트 입니다.
    
-   b. 시연 영상 : https://youtu.be/NIDKg0yNWJs?si=esyT39wzfpUsmYXV
+   b. [시연 영상 youtube](https://youtu.be/NIDKg0yNWJs?si=esyT39wzfpUsmYXV) 
    
-   c. 백엔드 깃허브 : https://github.com/KangShinGyu98/theUltimateTodoApplicationBE
+   c. [백엔드 깃허브](https://github.com/KangShinGyu98/theUltimateTodoApplicationBE) 
    
 3. IDE 만들기 프로젝트 - SSIDE
    
    a. 구름 풀스택 양성과정 중 진행한 프로젝트 입니다.
    
-   b. 시연 영상 : https://www.youtube.com/watch?v=BwM9A1-nh94
+   b. [시연 영상](https://www.youtube.com/watch?v=BwM9A1-nh94) 
    
-   c. 백엔드 깃허브 : https://github.com/Goormkdt-WebIDE/project6sIDE-BE
+   c. [백엔드 깃허브](https://github.com/Goormkdt-WebIDE/project6sIDE-BE) 
 
 ---
 
