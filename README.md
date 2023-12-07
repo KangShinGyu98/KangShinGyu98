@@ -42,7 +42,9 @@ TOEIC 870(만료됨), OPIc IH(Intermediate High)
   a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
   
   b. 깃허브
+  
     - BE : https://github.com/KangShinGyu98/myBunanBE
+    
     - FE : https://github.com/KangShinGyu98/myBunanFE
    
 2. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
