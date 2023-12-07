@@ -23,14 +23,13 @@ TOEIC 870(만료됨), OPIc IH(Intermediate High)
  main : Java, Spring
  
  sub : React
-
-### 경력 및 수상
-
-
+ 
+### 경력
 2023.03.02 ~ 05.19 모바일앱개발협동조합 
 
 2023.05.22 ~ 2023.11.28 구름 풀스택 개발자 양성 과정 1회차 수료
 
+## 수상
 2023.01.03 [캡스톤 디자인 경진대회 장려상]
 
 2023.11.28 구름 풀스택 개발자 양성 과정 최종 프로젝트 우수상
@@ -39,13 +38,11 @@ TOEIC 870(만료됨), OPIc IH(Intermediate High)
 
 1. 해외곡 번안(발음을 맞춰서 번역) 사이트 풀스택 개발 - https://www.bunan.co.kr/
    
-  a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
-  
-  b. 깃허브
-  
-    - BE : https://github.com/KangShinGyu98/myBunanBE
-    
-    - FE : https://github.com/KangShinGyu98/myBunanFE
+   a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
+   
+   b. 깃허브
+   - BE : https://github.com/KangShinGyu98/myBunanBE
+   - FE : https://github.com/KangShinGyu98/myBunanFE
    
 2. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
    
