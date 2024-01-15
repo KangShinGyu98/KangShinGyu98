@@ -6,7 +6,7 @@
 - 구름 풀스택(React, Spring) 교육과정을 수료했습니다.
 - 여러 사람들과 친하게 지내는 걸 잘합니다.
 - 자바, 스프링으로 백엔드를 개발합니다.
-- 포트폴리오 [노션링크](https://www.notion.so/4624bea8b1fa4be58e7b69a9d81bb018?pvs=4)
+- 포트폴리오 [노션링크](https://www.notion.so/febb942b20fa4eb484165207d6720b71?pvs=4)
   
 ### Contact.
 
