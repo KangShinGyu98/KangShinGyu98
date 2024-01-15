@@ -1,4 +1,4 @@
-### Hi there 👋
+### 아이디어 넘치는 개발자 강신규입니다.
 
 ### Introduction
 
@@ -6,102 +6,35 @@
 - 구름 풀스택(React, Spring) 교육과정을 수료했습니다.
 - 여러 사람들과 친하게 지내는 걸 잘합니다.
 - 자바, 스프링으로 백엔드를 개발합니다.
-- 기술 포트폴리오는 링크를 참고해주세요 : [노션링크](https://www.notion.so/4624bea8b1fa4be58e7b69a9d81bb018?pvs=4)
+- 포트폴리오 [노션링크](https://www.notion.so/4624bea8b1fa4be58e7b69a9d81bb018?pvs=4)
   
-### 연락처
+### Contact.
 
 - 이메일 : rkdtlseb@naver.com
 - 전화번호 : 010-2688-3997
   
-### 기술[사용 언어]
- main : Java, Spring
- 
- sub : React
- 
-### 프로젝트 
+### SKILL
 
-1. 해외곡 번안(발음을 맞춰서 번역) 사이트 풀스택 개발 - https://www.bunan.co.kr/
-   
-   a. 기획부터 배포까지 1인 개발로 만든 사이트입니다.
-   
-   b. 회원가입시 이메일 인증, QueryDsl 활용 검색 및 필터링, github action 과 Aws CodeDeploy 를 활용한 CI/CD 자동화 등이 구현되어 있습니다. 
+- Language: <img src="https://img.shields.io/badge/java-FC4C02"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript"> <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white">
+- Backend: <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
+- DevOps: <img src="https://img.shields.io/badge/codeDeploy-FF9900?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/githubActions-2088FF?logo=githubactions&logoColor=white">
 
-   c. 깃허브
-   - [BackEnd](https://github.com/KangShinGyu98/myBunanBE) 
-   - [FrontEnd](https://github.com/KangShinGyu98/myBunanFE) 
-   
-3. 쉽고 편리한 Todo, memo 통합 프로젝트 - EasyLog
-   
-   a. 구름 풀스택 양성과정 최종 프로젝트로, 우수상 입상한 프로젝트 입니다.
-
-   b. 소셜 로그인 가입, 카카오 챗봇 연동, chat GPT 연동, JWT 기반 인증 등이 구현되어 있습니다. 
-
-   c. [시연 영상 youtube](https://youtu.be/NIDKg0yNWJs?si=esyT39wzfpUsmYXV) 
-   
-   d. [백엔드 깃허브](https://github.com/KangShinGyu98/theUltimateTodoApplicationBE) 
-   
-5. IDE 만들기 프로젝트 - SSIDE
-   
-   a. 구름 풀스택 양성과정 중 진행한 프로젝트 입니다.
-   
-   b. [시연 영상](https://www.youtube.com/watch?v=BwM9A1-nh94) 
-   
-   c. [백엔드 깃허브](https://github.com/Goormkdt-WebIDE/project6sIDE-BE)
-   
 ### 언어(영어 US)
 
-TOEIC 870(만료됨), OPIc IH(Intermediate High)
+OPIc IH(Intermediate High)
 
-### 경력
+### 경력 및 교육
+
 2023.05.22 ~ 2023.11.28 구름 풀스택 개발자 양성 과정 1회차 수료
 
-2023.03.02 ~ 05.19 모바일앱개발협동조합 
+2023.08 성균관대학교 시스템경영공학과/소프트웨어학과 졸업 
 
-
+2023.03.02 ~ 05.19 모바일앱개발협동조합 인턴, AI 리서치 업무
 
 ## 수상
+
 2023.11.28 구름 풀스택 개발자 양성 과정 최종 프로젝트 우수상
 
-2023.01.03 [캡스톤 디자인 경진대회 장려상]
+2023.01.03 캡스톤 디자인 경진대회 장려상
 
----
 
-### 학력
-
-성균관대학교 시스템경영공학과(구 산업공학) 2017.02.15 입학 , 소프트웨어학과 복수전공 2023.08.25 졸업
-
-JavaScript, Python, C, Java를 학교 수업 수준으로 다룰 줄 알고 간단한 프로그래밍이 가능합니다. 
-
-| 학과 | 학점 |
-| --- | --- |
-| 시스템경영공학과 | 3.81 / 4.5 |
-| 소프트웨어학과 | 3.96 / 4.5 |
-| 총합 | 3.79 / 4.5 |
-| 전학년 백분율 | 91.9/100 |
-
-### 주요 교과목 성적표 - 소프트웨어학과
-
-| 학년 - 학기 | 교과목명 | 학점 | 성적 |
-| --- | --- | --- | --- |
-| 3 - 1 | JAVA 프로그래밍 실습 | 2 | A+ |
-| 3 - 1 | 시스템프로그램 | 3  | B+ |
-| 3 - 2 | 시스템프로그래밍실습 | 2 | A |
-| 3 - 2 | 데이터베이스개론 | 3 | B+ |
-| 3 - 2 | 컴퓨터네트웍개론 | 3 | A+ |
-| 4 - 1 | 컴퓨터구조개론 | 3 | A |
-| 4 - 1 | 인공지능개론 | 3 | A+ |
-| 4 - 1 | 알고리즘개론 | 3 | A+ |
-| 4 - 2 | 기계학습원론 | 3 | A |
-| 4 - 2 | 캡스톤설계프로젝트 | 3 | A+ |
-| 4 - 2 | 운영체제 | 3 | B+ |
-| 4 - 겨울학기 | 소프트웨어특강1 | 3 | A+ |
-
-### 주요 교과목 성적표 - 시스템경영공학과(구 산업공학과)
-
-| 학년 - 학기 | 교과목명 | 학점 | 성적 |
-| --- | --- | --- | --- |
-| 2 - 1 | 경영과학및실습1 | 3 | B+ |
-| 2 - 2 | 응용통계및연습1 | 3 | A+ |
-| 2- 2  | 품질경영 | 3 | B+ |
-| 3 - 1 | 확률및통계 | 3 | A |
-| 3 - 1 | 응용통계및연습2 | 3 | B+ |
