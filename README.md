@@ -23,6 +23,16 @@
 
 OPIc IH(Intermediate High)
 
+<details>
+    <summary>2024</summary>
+
+1. LeetCode 알고리즘 150 Problems (85/150)
+2. LeetCode SQL 50 Problems (15/50) 
+3. 모던 자바 인 액션 독서 (46/656)
+   
+
+</details>
+
 ### 경력 및 교육
 
 2023.05.22 ~ 2023.11.28 구름 풀스택 개발자 양성 과정 1회차 수료
