@@ -26,9 +26,9 @@ OPIc IH(Intermediate High)
 <details>
     <summary>2024</summary>
 
-1. LeetCode 알고리즘 150 Problems (85/150)
-2. LeetCode SQL 50 Problems (15/50) 
-3. 모던 자바 인 액션 독서 (46/656)
+1. LeetCode 알고리즘 150 Problems (91/150)
+2. LeetCode SQL 50 Problems (25/50) 
+3. 모던 자바 인 액션 독서 (126/656)
    
 
 </details>
