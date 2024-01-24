@@ -7,6 +7,7 @@
 - 여러 사람들과 친하게 지내는 걸 잘합니다.
 - 자바, 스프링으로 백엔드를 개발합니다.
 - 포트폴리오 [노션링크](https://www.notion.so/febb942b20fa4eb484165207d6720b71?pvs=4)
+- English Resume & portfolio : [Notion Link](https://www.notion.so/Kang-Shin-gyu-Creative-Developer-e01ce5bf36e3485ebdf79db579fa51c8?pvs=4)
   
 ### Contact.
 
