@@ -22,7 +22,7 @@
 
 ### 언어(영어 US)
 
-OPIc IH(Intermediate High)
+OPIc IH(Intermediate High) (expired) 
 
 <details>
     <summary>2024</summary>
