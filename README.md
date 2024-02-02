@@ -28,7 +28,7 @@ OPIc IH(Intermediate High) (expired)
     <summary>2024</summary>
 
 1. LeetCode 알고리즘 150 Problems (99/150)
-2. LeetCode SQL 50 Problems (50/50) -완-
+2. [LeetCode SQL 50 Problems](https://omniscient-cross-bcd.notion.site/SQL-44444d5f28e64e6584fc05e4623378bf) (50/50) -완-
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=rkdtlsrb&theme=light&border=border" alt="LeetCode Badges"/>
 
 
