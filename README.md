@@ -27,9 +27,12 @@ OPIc IH(Intermediate High) (expired)
 <details>
     <summary>2024</summary>
 
-1. LeetCode 알고리즘 150 Problems (91/150)
-2. LeetCode SQL 50 Problems (25/50) 
-3. 모던 자바 인 액션 독서 (126/656)
+1. LeetCode 알고리즘 150 Problems (99/150)
+2. LeetCode SQL 50 Problems (50/50) -완-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rkdtlsrb&theme=light&border=border" alt="LeetCode Badges"/>
+
+
+4. 모던 자바 인 액션 독서 (126/656)
    
 
 </details>
