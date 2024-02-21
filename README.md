@@ -20,9 +20,6 @@
 - Backend: <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
 - DevOps: <img src="https://img.shields.io/badge/codeDeploy-FF9900?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/githubActions-2088FF?logo=githubactions&logoColor=white">
 
-### 언어(영어 US)
-
-OPIc IH(Intermediate High) (expired) 
 
 <details>
     <summary>2024</summary>
