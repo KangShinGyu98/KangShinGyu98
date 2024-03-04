@@ -24,12 +24,13 @@
 <details>
     <summary>2024</summary>
 
-1. LeetCode 알고리즘 150 Problems (99/150)
-2. [LeetCode SQL 50 Problems](https://omniscient-cross-bcd.notion.site/SQL-44444d5f28e64e6584fc05e4623378bf) (50/50) -완-
+1. LeetCode 알고리즘 150 Problems 
+2. LeetCode SQL 50 Problems
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=rkdtlsrb&theme=light&border=border" alt="LeetCode Badges"/>
 
 
-4. 모던 자바 인 액션 독서 (126/656)
+
+
    
 
 </details>
