@@ -7,7 +7,7 @@
 - 여러 사람들과 친하게 지내는 걸 잘합니다.
 - 자바, 스프링으로 백엔드를 개발합니다.
 - 포트폴리오 [노션링크](https://www.notion.so/febb942b20fa4eb484165207d6720b71?pvs=4)
-- English Resume & portfolio : [Notion Link](https://omniscient-cross-bcd.notion.site/Kang-Shin-gyu-Creative-Developer-6f64876669b044beabb09ad406f3c6ac?pvs=4)
+- [Github Link](https://github.com/KangShinGyu98/KangShinGyu98/edit/main/README.md)
   
 ### Contact.
 
@@ -18,6 +18,7 @@
 
 - Language: <img src="https://img.shields.io/badge/java-FC4C02"> <img src="https://img.shields.io/badge/javascript-black?logo=javascript"> <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white">
 - Backend: <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
+- Frontend: <img src="https://img.shields.io/badge/react-0088CC?logo=react&logoColor=white">
 - DevOps: <img src="https://img.shields.io/badge/codeDeploy-FF9900?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/githubActions-2088FF?logo=githubactions&logoColor=white">
 
 
