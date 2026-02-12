@@ -2,10 +2,9 @@
 
 ### Introduction
 
-- 성균관대학교 졸업했습니다.
-- 구름 풀스택(React, Spring) 교육과정을 수료했습니다.
-- 여러 사람들과 친하게 지내는 걸 잘합니다.
-- 자바, 스프링으로 백엔드를 개발합니다.
+- 성균관대학교 졸업
+- 구름 풀스택(React, Spring) 교육과정을 수료
+- 레디코리아(ASP.NET MVC, jQuery, MSSQL, 무역 및 관세환급 솔루션) 1년 4개월 근무 (퇴사)
 - 포트폴리오 [노션링크](https://www.notion.so/febb942b20fa4eb484165207d6720b71?pvs=4)
   
 ### Contact.
