@@ -22,15 +22,6 @@
 - DevOps: <img src="https://img.shields.io/badge/codeDeploy-FF9900?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/githubActions-2088FF?logo=githubactions&logoColor=white">
 
 
-<details>
-    <summary>2024</summary>
-
-1. LeetCode 알고리즘 150 Problems 
-2. LeetCode SQL 50 Problems
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=rkdtlsrb&theme=light&border=border?" alt="LeetCode Badges"/>
-
-
-
    
 
 </details>
