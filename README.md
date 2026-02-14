@@ -35,6 +35,8 @@
 web development
 - 독서토론 웹사이트 [bookchat-eng](https://bookchat-eng.web.app/)
 
+Data Analyst
+- E-commerce Funnel Targeting Strategy [Notion Link](https://omniscient-cross-bcd.notion.site/E-commerce-Funnel-Targeting-Strategy-305b4b4655828062a8e8e5b4df1eb122?pvs=73)
 
 
 
