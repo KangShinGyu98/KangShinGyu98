@@ -33,7 +33,9 @@
 
 ### 프로젝트
 web development
-- 독서토론 웹사이트 [bookchat-eng](https://bookchat-eng.web.app/)
+- 독서토론 웹사이트 주소 [bookchat-eng](https://bookchat-eng.web.app/)
+- 독서토론 웹사이트 깃허브 주소 [bookchat-eng](https://github.com/KangShinGyu98/bookchat-eng)
+- 독서토론 웹사이트 노션 포트폴리오 주소 [Notion](https://omniscient-cross-bcd.notion.site/bookchat-31ab4b4655828041bc0fe9cb80e7d1a2)
 
 Data Analyst
 - [eCommerce Events History in Cosmetics Shop(2026.02.19 ~ 2026.03.04)](https://omniscient-cross-bcd.notion.site/eCommerce-Events-History-in-Cosmetics-Shop-2026-02-19-2026-03-04-30cb4b46558280ae84f3ec9196f2f7b4?pvs=74)
