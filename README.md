@@ -40,6 +40,7 @@ web development
 Data Analyst
 - [eCommerce Events History in Cosmetics Shop(2026.02.19 ~ 2026.03.04)](https://omniscient-cross-bcd.notion.site/eCommerce-Events-History-in-Cosmetics-Shop-2026-02-19-2026-03-04-30cb4b46558280ae84f3ec9196f2f7b4?pvs=74)
 - [E-commerce Funnel Targeting Strategy (2026.02.12 ~ 2026.02.19)](https://omniscient-cross-bcd.notion.site/E-commerce-Funnel-Targeting-Strategy-305b4b4655828062a8e8e5b4df1eb122?pvs=73)
+- [dataset harvester (2026.03.17~2026.03.20)](https://github.com/KangShinGyu98/dataset-harvest)
 
 
 
